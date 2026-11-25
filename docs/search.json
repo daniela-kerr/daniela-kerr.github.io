@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2026-11-25T20:45:44+00:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Daniela Kerr",
+      "description": "Welcome to my website. Take a look around!\n",
+      "author": [],
+      "contents": "\nWelcome\nHi! My name is Daniela. I am a student at Santa Barbara City College.\nI am interested in pain psychology and holistic healing modalities.\nA question I care about\nWrite two or three sentences about a question, issue, or topic that matters\nto you. Explain why it is interesting or important.\nSomething I have learned with data\nWrite two or three sentences about one idea or skill from PSY 150 that you\ncould explain to someone outside this class.\n\n\n\n",
+      "last_modified": "2026-11-25T20:45:45+00:00"
+    }
+  ],
+  "collections": []
+}
